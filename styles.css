@@ -1,0 +1,17 @@
+body {
+  font-family: "Varela Round";
+  color: black;
+  background-color: #ffc46d;
+  border: 3px solid black;
+  text-align: center;
+}
+
+div {
+  margin-bottom: 150px;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+.border {   border-width: 25px;   border-color: rgb(255, 255, 255);   border-style: ridge; } 
